@@ -1,0 +1,19 @@
+{
+  "name": "algorithm-train",
+  "version": "1.0.0",
+  "description": "improve algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HealyXiang/algorithm-train.git"
+  },
+  "author": "healy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HealyXiang/algorithm-train/issues"
+  },
+  "homepage": "https://github.com/HealyXiang/algorithm-train#readme"
+}
